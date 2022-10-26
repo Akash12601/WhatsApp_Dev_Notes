@@ -1,0 +1,13 @@
+This is whatApp NOTE:
+
+Author: Mark
+
+1.profile page code
+
+2.chat screen code
+
+3.last seen code
+
+4.Attachements(video,audio,images)code
+
+5.hiding last seen code
