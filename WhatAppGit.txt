@@ -11,3 +11,7 @@ Author: Mark
 4.Attachements(video,audio,images)code
 
 5.hiding last seen code
+
+6.Adding audio call feature
+
+7.Adding video call feature
